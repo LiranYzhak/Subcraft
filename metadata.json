@@ -1,0 +1,6 @@
+{
+  "name": "SubCraft Studio - סטודיו להורדה, עריכת וידאו וכתוביות בעברית",
+  "description": "סטודיו מתקדם להורדת סרטונים מכל הרשתות החברתיות, תמלול אוטומטי והוספת כתוביות בעברית (Cartesia), חיתוך וידאו לפורמט מרובע 1:1 וייצוא באיכות מלאה.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
